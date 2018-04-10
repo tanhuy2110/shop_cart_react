@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import Header from './components/Header';
-import Footer from './components/Footer'
-import Content from './components/Content'
+import Footer from './components/Footer';
+//import Products from './components/Products';
+import Login from './components/Login'
 
 class App extends Component {
 	render() {
@@ -9,8 +10,8 @@ class App extends Component {
 			<div>
 				<Header/>
 				<main id = 'contents'>
-					<div className="container">
-						<Content/>
+					<div className="">
+						<Login/>
 					</div>
 				</main>
 				<Footer/>

@@ -12,7 +12,7 @@ class Header extends Component {
                                     <div className="velaHeaderLeft  col-xs-12 col-sm-12 col-md-2">
                                         <h1 className="velaLogo">
                                             <a href="" className="velaLogoLink">
-                                                <img className="img-responsive" src="/images/logo2756.png" />
+                                                <img alt="" className="img-responsive" src="/images/logo2756.png" />
                                             </a>
                                         </h1>
                                     </div>
