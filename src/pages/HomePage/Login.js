@@ -39,7 +39,7 @@ class Login extends Component {
                                                     <p>Registration is quick and easy. It allows you to be able to order from our shop. To start shopping click register.</p>
                                                 </div>
                                                 <div className="submit">
-                                                    <a className="btn btnVelaOne" href="register.html">
+                                                    <a className="btn btnVelaOne" href="register">
                                                         <span>Create an account</span>
                                                     </a>
                                                 </div>

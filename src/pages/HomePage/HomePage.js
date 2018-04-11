@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Products extends Component {
+class HomePage extends Component {
 	render() {
 		return (
 			<div>
@@ -20,7 +20,7 @@ class Products extends Component {
 													<div className="velaProBlock proFlyBlock  multiple_image" data-price="145.00">
 														<div className="proHImage">
 															<a className="proFeaturedImage" href="products/sacrificial-chair-design-4.html">
-																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/5_373x480d5e4.jpg" />
+																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/product_images/5_373x480d5e4.jpg" />
 															</a>
 															<p className="proAttr instock hidden ">In stock</p>
 															<div className="productQuickView">
@@ -58,7 +58,7 @@ class Products extends Component {
 													<div className="velaProBlock proFlyBlock  multiple_image" data-price="145.00">
 														<div className="proHImage">
 															<a className="proFeaturedImage" href="products/sacrificial-chair-design-4.html">
-																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/2_373x4802733.jpg" />
+																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/product_images/2_373x4802733.jpg" />
 															</a>
 															<p className="proAttr instock hidden ">In stock</p>
 															<div className="productQuickView">
@@ -96,7 +96,7 @@ class Products extends Component {
 													<div className="velaProBlock proFlyBlock  multiple_image" data-price="145.00">
 														<div className="proHImage">
 															<a className="proFeaturedImage" href="products/sacrificial-chair-design-4.html">
-																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/3_373x480ecd2.jpg" />
+																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/product_images/3_373x480ecd2.jpg" />
 															</a>
 															<p className="proAttr instock hidden ">In stock</p>
 															<div className="productQuickView">
@@ -134,7 +134,7 @@ class Products extends Component {
 													<div className="velaProBlock proFlyBlock  multiple_image" data-price="145.00">
 														<div className="proHImage">
 															<a className="proFeaturedImage" href="products/sacrificial-chair-design-4.html">
-																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/2_373x4802733.jpg" />
+																<img className="img-responsive imgFlyCart " alt="Sacrificial Chair Design" src="images/product_images/2_373x4802733.jpg" />
 															</a>
 															<p className="proAttr instock hidden ">In stock</p>
 															<div className="productQuickView">
@@ -207,4 +207,4 @@ class Products extends Component {
 		);
 	}
 }
-export default Products;
+export default HomePage;

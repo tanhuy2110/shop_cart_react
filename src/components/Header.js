@@ -11,7 +11,7 @@ class Header extends Component {
                                 <div className="headerContent flexRow velaFlexRow">
                                     <div className="velaHeaderLeft  col-xs-12 col-sm-12 col-md-2">
                                         <h1 className="velaLogo">
-                                            <a href="" className="velaLogoLink">
+                                            <a href="/" className="velaLogoLink">
                                                 <img alt="" className="img-responsive" src="/images/logo2756.png" />
                                             </a>
                                         </h1>
@@ -219,8 +219,8 @@ class Header extends Component {
                                         </a>
                                         <div id="velaTopLinks" className="velaTopLinks collapse">
                                             <ul className="list-unstyled">
-                                                <li><a href="account/register.html" id="customer_register_link">Register</a></li>
-                                                <li><a href="account/login.html" id="customer_login_link">Login</a></li>
+                                                <li><a href="/register" id="customer_register_link">Register</a></li>
+                                                <li><a href="/login" id="customer_login_link">Login</a></li>
 
                                             </ul>
                                         </div>
