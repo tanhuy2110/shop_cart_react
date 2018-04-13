@@ -73,8 +73,8 @@ class CartPage extends Component {
                                                 <span className="h3 cartSubtotal"><span className="money">$170.00</span></span>
                                             </p>
                                             <p><em>Shipping &amp; taxes calculated at checkout</em></p>
-                                            <input type="submit" name="update" className="btn btnVelaOne btnUpdateCart"/>
-                                            <input type="submit" name="checkout" className="btn btnVelaTwo"/>
+                                            <input type="submit" name="update" className="btn btnVelaOne btnUpdateCart" value="Update Cart"/>
+                                            <input type="submit" name="checkout" className="btn btnVelaTwo" value="Check Out"/>
                                         </div>
                                     </div>
                                 </div>
