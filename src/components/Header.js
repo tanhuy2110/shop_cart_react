@@ -221,7 +221,6 @@ class Header extends Component {
                                             <ul className="list-unstyled">
                                                 <li><a href="/register" id="customer_register_link">Register</a></li>
                                                 <li><a href="/login" id="customer_login_link">Login</a></li>
-
                                             </ul>
                                         </div>
                                     </div>

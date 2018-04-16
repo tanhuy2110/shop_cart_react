@@ -142,4 +142,4 @@ window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
         eventsListenerScript.src = "../cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
       
-  })()
+  })
